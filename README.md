@@ -5,6 +5,8 @@
 
 [Live Demo](https://ciro-ai.vercel.app/)
 
+---
+
 ## Project Overview
 
 CIRO AI is a web based simulation project designed to demonstrate how AI agents can support the analysis of emergency scenarios.
@@ -13,18 +15,52 @@ Users can submit a simulated incident with its type, location, severity, and num
 
 This project was developed as a Software Engineering project to explore AI integration, multi agent workflows, and crisis decision support.
 
+## Project Screenshots
+
+Explore the main interfaces and features of CIRO AI.
+
+### 1. Landing Page
+
+The main landing page introduces CIRO AI, its purpose, and its key features.
+
+![CIRO AI Landing Page](screenshots/landing%20page.png)
+
+### 2. Dashboard
+
+The dashboard displays simulated emergency incidents and provides an overview of the system.
+
+![CIRO AI Dashboard](screenshots/Dashboard.png)
+
+### 3. Emergency Simulator
+
+The simulator allows users to enter emergency details, including incident type, location, severity, and people affected.
+
+![CIRO AI Emergency Simulator](screenshots/Emergency%20Simulator.png)
+
+### 4. AI Agents
+
+This section presents the six specialized agent roles involved in the simulated crisis analysis workflow.
+
+![CIRO AI Agents](screenshots/AI%20Agents.png)
+
+### 5. Analytics
+
+The analytics interface presents visual information and insights from the simulated incident data.
+
+![CIRO AI Analytics](screenshots/Analytics.png)
+
 ## Key Features
 
-- Simulated emergency incident dashboard
-- Six specialized agent roles
-- AI powered incident analysis using Google Gemini
-- Risk assessment demonstration
-- Suggested response actions
-- Recommended resources
-- Incident verification status
-- React based web interface
-- Node.js and Express backend
-- Online deployment using Vercel
+1. Simulated emergency incident dashboard
+2. Six specialized agent roles
+3. AI powered incident analysis using Google Gemini
+4. Risk assessment demonstration
+5. Suggested response actions
+6. Recommended resources
+7. Incident verification status
+8. React based web interface
+9. Node.js and Express backend
+10. Online deployment using Vercel
 
 ## Six Agent Roles
 
@@ -51,28 +87,31 @@ The project follows a frontend and backend architecture.
 ## Technology Stack
 
 **Frontend**
-- React
-- Vite
-- Tailwind CSS
-- Framer Motion
-- Three.js
-- Recharts
-- Leaflet
+
+1. React
+2. Vite
+3. Tailwind CSS
+4. Framer Motion
+5. Three.js
+6. Recharts
+7. Leaflet
 
 **Backend**
-- Node.js
-- Express.js
-- Google Gemini API
+
+1. Node.js
+2. Express.js
+3. Google Gemini API
 
 **Deployment and Version Control**
-- GitHub
-- Vercel
+
+1. GitHub
+2. Vercel
 
 ## Live Demo
 
 Visit the deployed project:
 
-https://ciro-ai.vercel.app/
+[https://ciro-ai.vercel.app/](https://ciro-ai.vercel.app/)
 
 ## Project Repository
 
